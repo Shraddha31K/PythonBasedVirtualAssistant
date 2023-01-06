@@ -1,2 +1,1 @@
-# PythonBasedVirtualAssistant
-What can this A.I. assistant do for you? It can send emails on your behalf
+If you've been a fan of Marvel Comics, you know Jarvis, who is a personal assistant of Iron Man. He knows everything and he can control everything related to computer tasks. In this project, I've created a similar kind of program using the Python programming language. My desktop can search Wikipedia, it can play music, open youtube , browsing, surfing and emails to anyone, it can read wikipedia search result, This is very simple but very powerful.
